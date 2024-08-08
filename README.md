@@ -1,4 +1,4 @@
-**Newark, DE Campus**
+**Newark, DE**
 ![Image Alt](poultry-farm-aerial.jpeg)
 
 **Carvel Center: Georgetown, DE**
