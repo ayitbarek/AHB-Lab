@@ -1,1 +1,7 @@
-theme: jekyll-theme-Cayman
+# basic options
+title: Avian Health Biology @ The University of Delaware
+author: Yitbarek
+
+# Build settings
+markdown: kramdown
+theme: minima
