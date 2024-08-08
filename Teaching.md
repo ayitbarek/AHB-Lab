@@ -1,11 +1,7 @@
 ---
 layout: page
-title: 
+title: Teaching
 ---
-
-## Other thoughts
-
-This is great.
 
 **Undergraduate**
 
