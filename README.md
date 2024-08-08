@@ -1,3 +1,3 @@
 title: "Avian Health Biology lab - University of Delaware"
 
-![Image Alt](https://github.com/ayitbarek/yitbareklab/blob/b779b4309ae05a8295fb36fe783254ce7f135e6d/Chicken.jpeg)
+![Image Alt](https://github.com/ayitbarek/yitbareklab/blob/67eb6353c6a0347a4adb70de78d83a9aa7424b28/poultry-farm-aerial.jpeg)
