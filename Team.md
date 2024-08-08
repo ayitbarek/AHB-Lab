@@ -4,7 +4,7 @@ title: Team
 ---
 
 - Alexander Yitbarek
-   ![Image Alt](Images/Yitbarek_Alexander-012424-012 copy.jpg)
+   ![Image Alt](Images/McGillPhoto.jpeg)
   
 - Ayobami Aboderin: MSc Student (2023 - Present)
   
