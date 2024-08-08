@@ -1,10 +1,5 @@
 title: "Avian Health Biology lab - University of Delaware"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+
 
 # Layout
 
