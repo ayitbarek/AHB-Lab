@@ -2,4 +2,4 @@
 ![Image Alt](poultry-farm-aerial.jpeg)
 
 **Carvel Center: Georgetown, DE**
-![Image Alt](poultry-farm-aerial.jpeg)
+![Image Alt](CarvelCenter.jpg)
