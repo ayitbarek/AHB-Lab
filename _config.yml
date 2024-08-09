@@ -4,4 +4,4 @@ author: Yitbarek
 
 # Build settings
 markdown: kramdown
-theme: Time machine
+theme: jekyll-theme-time-machine
