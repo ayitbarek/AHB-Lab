@@ -3,20 +3,11 @@ layout: page
 title: Peer-reviewed publication:
 ---
 
-42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S.
-(2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine
-Development, Stability, and Delivery. Vaccines, 12(2), 134.
-41. Taha-Abdelaziz, K., Singh, M., Sharif, S., Sharma, S., Kulkarni, R.R., Alizadeh, M., Yitbarek,
-A. and Helmy, Y.A., 2023. Intervention Strategies to Control Campylobacter at Different
-Stages of the Food Chain. Microorganisms, 11(1), p.113.
-40. Kairmi S.H., Taha-Abdelaziz K., Yitbarek A., Sargolzaei M., Spahany H., Astill J., Shojadoost
-B., Alizadeh M., Kulkarni R.R., Parkinson J., Sharif S., (2022). Effects of therapeutic levels of
-dietary antibiotics on the cecal microbiome composition of broiler chickens. Poultry Science.
+42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.
+41. Taha-Abdelaziz, K., Singh, M., Sharif, S., Sharma, S., Kulkarni, R.R., Alizadeh, M., Yitbarek, A. and Helmy, Y.A., 2023. Intervention Strategies to Control Campylobacter at Different Stages of the Food Chain. Microorganisms, 11(1), p.113.
+40. Kairmi S.H., Taha-Abdelaziz K., Yitbarek A., Sargolzaei M., Spahany H., Astill J., Shojadoost B., Alizadeh M., Kulkarni R.R., Parkinson J., Sharif S., (2022). Effects of therapeutic levels of dietary antibiotics on the cecal microbiome composition of broiler chickens. Poultry Science.
 101(6), p.101864.
-39. Uribe-Diaz S., Nazeer N., Jaime J., Vargas-Bermúdez D.S., Yitbarek A., Ahmed M., Rodríguez-
-Lecompte J.C. (2022). Folic acid enhances proinflammatory and antiviral molecular pathways in
-chicken B-lymphocytes infected with a mild infectious bursal disease virus. British Poultry Science, 63(1)1-
-13.
+39. Uribe-Diaz S., Nazeer N., Jaime J., Vargas-Bermúdez D.S., Yitbarek A., Ahmed M., Rodríguez- Lecompte J.C. (2022). Folic acid enhances proinflammatory and antiviral molecular pathways in chicken B-lymphocytes infected with a mild infectious bursal disease virus. British Poultry Science, 63(1)1-13.
 38. Shojadoost B., Yitbarek A., Alizadeh M., Kulkarni R.R., Astill J., Boodhoo N., Sharif S. (2021).
 Centennial Review: Effects of vitamins A, D, E, and C on the chicken immune system. Poultry Science.
 100(4):100930.
