@@ -4,4 +4,4 @@ author: Yitbarek
 
 # Build settings
 markdown: kramdown
-theme: Alembic
+theme: alembic-jekyll-theme.gemspec
