@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Address: 
+title: Address
 ---
 <p>Department of Animal and Food Sciences<br>
 <p>531 S. College Avenue<br>
