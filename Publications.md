@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Peer-reviewed publication:
+title: Publications
 ---
 
 42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.
