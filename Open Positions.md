@@ -25,7 +25,6 @@ Why Join Us?
 At **ABH-LAB**, we foster a collaborative and supportive environment where team members are encouraged to pursue their research interests and contribute to the broader scientific community. 
 We offer access to cutting-edge resources, mentoring, and opportunities for professional development.
 
-If you’re passionate about making an impact through research and innovation, we encourage you to apply!
+If you’re passionate about making an impact through research and innovation, **we encourage you to apply!**
 
-Contact Us
 For any inquiries regarding open positions, please contact us at [yitbarek@udel.edu](mailto:example@domain.com).
