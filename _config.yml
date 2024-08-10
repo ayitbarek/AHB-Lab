@@ -8,4 +8,4 @@ markdown: kramdown
 theme: minima
 
 # Additional settings
-logo: Logo.png
+logo: /Logo.png
