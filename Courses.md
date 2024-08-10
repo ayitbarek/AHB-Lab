@@ -2,11 +2,11 @@
 layout: page
 title: Teaching
 ---
-<u><strong>University of Delaware:<u><strong>
+<u><strong>University of Delaware: 2024 - Present<u><strong>
 
 **Undergraduate**
-* [ANFS636: Immunology of Domesticated Animals](Course Files/Course Syllabus.pdf)
-* ANFS436: Immunology of Domesticated Animals
+* [ANFS436: Immunology of Domesticated Animals](Course Files/Course Syllabus.pdf)
+* ANFS111:  Animal and Food Science Exploration
 
 **Graduate**
 * [ANFS636: Immunology of Domesticated Animals](Course Files/Course Syllabus.pdf)
@@ -18,3 +18,4 @@ title: Teaching
 * ANSC458: Swine and Poultry Production
 * ANSC600: Advanced Eukaryotic Cells and Viruses
 * ANSC692: Topic in Animal Sciences
+* AEBI122: Cell_Biology - Guest Lecture March 2022, March 2023
