@@ -6,3 +6,6 @@ author:
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Additional settings
+logo: /logo.png
