@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 
-[42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.](https://doi.org/10.3390/vaccines12020134)
-<a href=https://doi.org/10.3390/vaccines12020134 target="_blank">41. Taha-Abdelaziz, K., Singh, M., Sharif, S., Sharma, S., Kulkarni, R.R., Alizadeh, M., Yitbarek, A. and Helmy, Y.A., 2023. Intervention Strategies to Control Campylobacter at Different Stages of the Food Chain. Microorganisms, 11(1), p.113.</a>
+- <a href="https://doi.org/10.3390/vaccines12020134" target="_blank">42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.</a>
+- <a href=https://doi.org/10.3390/vaccines12020134 target="_blank">41. Taha-Abdelaziz, K., Singh, M., Sharif, S., Sharma, S., Kulkarni, R.R., Alizadeh, M., Yitbarek, A. and Helmy, Y.A., 2023. Intervention Strategies to Control Campylobacter at Different Stages of the Food Chain. Microorganisms, 11(1), p.113.</a>
 40. Kairmi S.H., Taha-Abdelaziz K., Yitbarek A., Sargolzaei M., Spahany H., Astill J., Shojadoost B., Alizadeh M., Kulkarni R.R., Parkinson J., Sharif S., (2022). Effects of therapeutic levels of dietary antibiotics on the cecal microbiome composition of broiler chickens. Poultry Science.
 101(6), p.101864.
 39. Uribe-Diaz S., Nazeer N., Jaime J., Vargas-Bermúdez D.S., Yitbarek A., Ahmed M., Rodríguez- Lecompte J.C. (2022). Folic acid enhances proinflammatory and antiviral molecular pathways in chicken B-lymphocytes infected with a mild infectious bursal disease virus. British Poultry Science, 63(1)1-13.
@@ -142,5 +142,3 @@ chickens supplemented with yeast-derived carbohydrates. Poultry Science, 91:2164
 Science. 89:2774–2781.
 ## Publications
 
-- <a href="https://doi.org/10.3390/vaccines12020134" target="_blank">42. Abdelaziz, K., Helmy, Y. A., Yitbarek, A., Hodgins, D. C., Sharafeldin, T. A., & Selim, M. S. (2024). Advances in Poultry Vaccines: Leveraging Biotechnology for Improving Vaccine Development, Stability, and Delivery. Vaccines, 12(2), 134.</a>
-- <a href="https://doi.org/10.5678/another-doi" target="_blank">Title of Publication 2</a>
