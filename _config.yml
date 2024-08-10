@@ -5,4 +5,4 @@ author: Girma
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: architect
