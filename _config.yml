@@ -1,12 +1,7 @@
-# basic options
-title: AHB-Lab\nAvian Health Biology - The University of Delaware
-author:
-
-description: >
-  This is the first line.\n
-  This is the second line.\n
-  This is the third line.
-
+title: |
+  This is the first line of the title
+  This is the second line of the title
+  This is the third line of the title
 
 # Build settings
 markdown: kramdown
