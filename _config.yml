@@ -1,9 +1,9 @@
-# Basic options
-title: |
-  Avian Health Biology 
-  - The University of Delaware
-author: 
-
 # Build settings
 markdown: kramdown
-theme: Minimal
+theme: Architect
+
+# Site settings
+title: |
+  Avian Health Biology
+  - The University of Delaware
+author: Girma
