@@ -3,7 +3,5 @@ markdown: kramdown
 theme: Architect
 
 # Site settings
-title: |
-  Avian Health Biology
-  - The University of Delaware
+title: Avian Health Biology - The University of Delaware
 author: Girma
