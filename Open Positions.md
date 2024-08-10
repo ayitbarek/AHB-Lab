@@ -27,4 +27,4 @@ We offer access to cutting-edge resources, mentoring, and opportunities for prof
 If you’re passionate about making an impact through research and innovation, we encourage you to apply!
 
 Contact Us
-For any inquiries regarding open positions, please contact us at yitbarek@udel.edu.
+For any inquiries regarding open positions, please contact us at [yitbarek@udel.edu](mailto:example@domain.com).
