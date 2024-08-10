@@ -1,4 +1,3 @@
-
 # Site settings
 title: Avian Health Biology - The University of Delaware
 author: Yitbarek
@@ -8,4 +7,4 @@ markdown: kramdown
 theme: minima
 
 # Additional settings
-logo: /Logo.png
+logo: /assets/Logo.png
