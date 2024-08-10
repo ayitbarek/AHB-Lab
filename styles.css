@@ -1,21 +1,19 @@
 nav ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  justify-content: space-around;
+  list-style-type: none;  /* Remove default bullet points */
+  padding: 0;             /* Remove default padding */
+  margin: 0;              /* Remove default margin */
 }
 
 nav li {
-  margin: 0 15px;
+  margin: 10px 0;         /* Add vertical spacing between items */
 }
 
 nav a {
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
+  text-decoration: none;  /* Remove underline from links */
+  color: #333;            /* Text color */
+  font-weight: bold;      /* Bold text */
 }
 
 nav a:hover {
-  color: #007BFF;
+  color: #007BFF;         /* Change color on hover */
 }
