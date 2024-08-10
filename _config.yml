@@ -1,6 +1,7 @@
 # basic options
-title: Avian Health Biology @ The University of Delaware
-author: Yitbarek
+title: AHB-Lab
+Avian Health Biology - The University of Delaware
+author:
 
 # Build settings
 markdown: kramdown
