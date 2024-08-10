@@ -1,7 +1,8 @@
-# Build settings
-markdown: kramdown
-theme: Architect
 
 # Site settings
 title: Avian Health Biology - The University of Delaware
 author: Girma
+
+# Build settings
+markdown: kramdown
+theme: minima
