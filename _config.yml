@@ -1,8 +1,9 @@
+# Basic options
 title: |
-  This is the first line of the title
-  This is the second line of the title
-  This is the third line of the title
+  Avian Health Biology 
+  - The University of Delaware
+author: 
 
 # Build settings
 markdown: kramdown
-theme: Tale
+theme: minima
