@@ -1,6 +1,9 @@
+
 # Build settings
 markdown: kramdown
 theme: Architect
+custom_css:
+  - styles.css
 
 # Site settings
 title: |
