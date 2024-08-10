@@ -25,6 +25,7 @@ title: Publications
 
 <a href="https://doi.org/10.1016/j.psj.2020.03.022" target="_blank">32. Losada-Medina D., Yitbarek A., Uribe-Diaz S., Ahmed M., and Rodriguez-Lecompte J.C. (2020). Identification, tissue characterization and innate immune role of Angiogenin-4 expression in young broiler chickens. Poultry Science. 99(6):2992-3000.</a>
 
+<a href="https://doi.org/10.1016/j.vaccine.2019.09.046" target="_blank">31. Yitbarek A., Astill J., Hodgins D.C., Parkinson J., Nagy É., and Sharif, S. (2019). Commensal gut microbiota can modulate adaptive immune responses in chickens vaccinated with whole inactivated avian influenza virus subtype H9N2. Vaccine, 37(44), 6640-6647.</a>
 
 Alexander Yitbarek Page 3
 
