@@ -6,7 +6,7 @@ title: Open positions
 We are always looking for talented and motivated individuals to join our team. 
 Our lab/department offers an enriching environment where you can develop your skills and contribute to cutting-edge research.
 
-1. <u><strong>Graduate Research Assistantships (PhD and Master’s)<u><strong>
+<u><strong>Graduate Research Assistantships (PhD and Master’s)<u><strong>
 
 **Description:** We are seeking graduate students to join our team in pursuing advanced research in Avian Health Biology. Successful candidates will have the opportunity to work on interdisciplinary projects, collaborate with leading researchers, and contribute to peer-reviewed publications.
 
@@ -14,7 +14,7 @@ Our lab/department offers an enriching environment where you can develop your sk
 How to Apply: Interested candidates should send a cover letter, CV, and contact information for three references to [yitbarek@udel.edu](mailto:example@domain.com). Please include a brief statement of research interests and how they align with our ongoing projects.
 
 
-2. <u><strong>Undergraduate Research Internships<u><strong>
+<u><strong>Undergraduate Research Internships<u><strong>
 
 **Description:** Our lab/department offers summer research training for motivated undergraduate students interested in gaining research experience. Interns will work closely with graduate students and faculty on avian health biology.
 
