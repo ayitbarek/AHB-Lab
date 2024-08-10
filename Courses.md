@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 **Undergraduate**
-* ANFS111: Animal and Food Science Exploration
+* [ANFS636: Immunology of Domesticated Animals](Course Files/Course Syllabus.pdf)
 * ANFS436: Immunology of Domesticated Animals
 
 **Graduate**
