@@ -1,9 +1,7 @@
 # Build settings
 markdown: kramdown
 theme: Architect
-custom_css:
-  - /assets/css/custom.css
-  
+
 # Site settings
 title: |
   Avian Health Biology
