@@ -4,4 +4,4 @@ author: Yitbarek
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: merlot
