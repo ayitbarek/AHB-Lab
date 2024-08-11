@@ -4,4 +4,4 @@ author: Yitbarek
 
 # Build settings
 markdown: kramdown
-theme: modernist
+theme: slate
