@@ -4,4 +4,4 @@ author: Yitbarek
 
 # Build settings
 markdown: kramdown
-theme: merlot
+theme: jekyll-theme-merlot
