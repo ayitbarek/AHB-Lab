@@ -4,4 +4,4 @@ author: Yitbarek
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: jekyll-theme-modernist
